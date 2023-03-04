@@ -1,0 +1,12 @@
+#include<stdio.h>
+main()
+{int i;
+i=1;
+while(i<=1000)
+{
+	printf("i love you");
+	printf(" <3");
+	printf("\n");
+	
+}
+}
